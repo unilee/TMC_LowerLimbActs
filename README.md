@@ -3,7 +3,7 @@ These pages hold original data collected for experiments reported in our draft p
 
 _A novel adaptive and on-line IMU-based locomotion activity classification method using a triplet Markov model_
 
-It also contains results for each subject, results noe reported in the draft due to a lack of space.
+It also contains results for each subject, results not reported in the draft due to a lack of space.
 
 ### Data
 
