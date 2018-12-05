@@ -17,7 +17,7 @@ The folder 'Data' includes all the experiments involved in the paper, for both t
 Other useful information is also included in the file:
  - label, the ground truth of activity
  - switchLabel, the ground truth of activity switch, the first column represents previous activity, the second column represents the current activity.
-  - lastRoundStartIndex, the start index of the section section in the experiment, relative to footMotion struct only.
+  - lastRoundStartIndex, the start index of the second section in the experiment, relative to footMotion struct only.
 
 ### Results
 
