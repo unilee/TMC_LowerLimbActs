@@ -1,5 +1,5 @@
 ## Data collection for draft paper
-These pages hold original data collected for experiments reported in our draft paper entitled 
+These pages hold original data collected for experiments reported in our paper entitled 
 
 _A novel adaptive and on-line IMU-based locomotion activity classification method using a triplet Markov model_
 
