@@ -25,5 +25,6 @@ The pdf file **dataexplanation** details the experiments of training and testing
 
 ### Citation
 
-If you would like to use this data, please cite the following reference:
-[Article #1]{https://www.sciencedirect.com/science/article/pii/S0925231219309956}: H. Li, S. Derrode and W. Pieczynski, Anadaptive and on-line IMU-based locomotion activity classification method using a triplet Markov model, Neurocomputing, https://doi.org/10.1016/j.neucom.2019.06.081
+**If you would like to use this data, please cite the following reference:**
+
+[*Article #1*](https://www.sciencedirect.com/science/article/pii/S0925231219309956): H. Li, S. Derrode and W. Pieczynski, Anadaptive and on-line IMU-based locomotion activity classification method using a triplet Markov model, Neurocomputing, https://doi.org/10.1016/j.neucom.2019.06.081
