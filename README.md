@@ -25,6 +25,8 @@ The pdf file **dataexplanation** details the experiments of training and testing
 
 ### Citation
 
-**If you would like to use this data, please cite the following reference:**
+**If you would like to use this data, please cite one of the following references:**
 
-[*Article #1*](https://www.sciencedirect.com/science/article/pii/S0925231219309956): H. Li, S. Derrode and W. Pieczynski, Anadaptive and on-line IMU-based locomotion activity classification method using a triplet Markov model, Neurocomputing, https://doi.org/10.1016/j.neucom.2019.06.081
+[*Article #1*](https://www.sciencedirect.com/science/article/pii/S0925231219309956): H. Li, S. Derrode and W. Pieczynski. An adaptive and on-line IMU-based locomotion activity classification method using a triplet Markov model. Neurocomputing, 2019, 362:94-105 https://doi.org/10.1016/j.neucom.2019.06.081
+
+[*Article #2*]:(https://www.mdpi.com/1424-8220/19/19/4242/htm): H. Li, S. Derrode and W. Pieczynski. Lower Limb Locomotion Activity Recognition of Healthy Individuals Using Semi-Markov Model and Single Wearable Inertial Sensor. Sensors, 2019, 19(19): 4242 https://doi.org/10.3390/s19194242
